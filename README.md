@@ -23,7 +23,7 @@ The world is so vast, and life, as far as I can tell, is mostly made of experien
 
 So I try to give my time to anything that offers a different and worthwhile way of seeing life. I want to try everything and learn as much as I can, because curiosity always ends up as experience. It rarely takes you where you meant to go. It takes you somewhere you've never been, and that tends to be the point.
 
-This page is a collection of projects, experiments, notes on what I'm learning, and whatever else turns up along the way.
+I don't have it all figured out, and I won't pretend to. I'm not a genius and I'm not an expert. I just want to grow, and I'm willing to put in the time and effort to do it. If I'm a little better today than I was yesterday, that counts for me. I'm not even sure anyone can say what "perfect" really looks like.
 
 ## Outside of tech
 
